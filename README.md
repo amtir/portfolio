@@ -2,12 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-amtir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akram-m-tir-88261b3/)](https://www.linkedin.com/in/akram-m-tir-88261b3/)
 
-👨‍💻 About Me:
-I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
+👨‍💻 About Me: 
+> I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
-🌍 Location: Lausanne, Switzerland
-🎓 Education: MSc in Computer Science (University of Birmingham, UK) | Engineer Diploma in Micro Engineering (EPFL, CH)
-🌐 Languages: French (Native), English (Fluent), German (Good)
+- 🌍 Location: Lausanne, Switzerland
+- 🎓 Education:  MSc in Computer Science (University of Birmingham, UK) | Engineer Diploma in Micro Engineering (EPFL, CH)
+- 🌐 Languages: French (Native), English (Fluent), German (Good)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
