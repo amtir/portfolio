@@ -16,6 +16,18 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
 
+
+### 📚 Certifications:
+- [Data Science and Machine Learning Training (2024 - 2025)](./pictures/data_science_certificate.png)  
+- [Python Professional (Oct 2024)](./pictures/Certificate_Python_Professional.pdf)  
+- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
+- [Certified Ethical Hacker](./pictures/CertificateEthicalHacker.pdf)  
+- [Docker Associate (Jan 2024)](./pictures/docker_certificate.png)  
+- [Linux Administration Professional (2017 & 2023)](./pictures/linux_certificate.png)  
+- [AWS Solution Architect (Apr 2023)](./pictures/aws_certificate.png)  
+
+
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
