@@ -6,13 +6,14 @@
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
 - 🎓 **Education**:  
-  - MSc in Computer Science (University of Birmingham, UK) <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="30"/>  
+  - MSc in Computer Science (University of Birmingham, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
+        <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="40" height="41" /> </a>
   - Engineer Diploma in Micro Engineering (EPFL, CH) <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="30"/> 
-- 🌐 Languages: 
+- 🌐 **Languages**:
   - French (Native)
   - English (Fluent)
   - German (Good)
-- 🌍 Location: Lausanne, Switzerland
+- 🌍 **Location**: Lausanne, Switzerland
 
 ![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
 
@@ -23,7 +24,7 @@
 - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
 - [Certified Ethical Hacker](./pictures/Edureka/CertificateEthicalHacker.pdf)  
 - [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf)  
-- [Linux Administration Professional (2017 & 2023)](./pictures/Certificate_linuxadmin.pdf)  
+- [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf)  
 - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  
 
 
