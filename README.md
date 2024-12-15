@@ -32,7 +32,9 @@
 - [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf) <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
-- [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  
+- [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="python" width="120" height="40" />
+    </a>
 
 
 
