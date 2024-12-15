@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi Everyone 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-amtir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akram-m-tir-88261b3/)](https://www.linkedin.com/in/akram-m-tir-88261b3/)
 
@@ -8,7 +8,7 @@
 - 🎓 **Education**:  
   - MSc in Computer Science (University of Birmingham, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
         <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="30" height="31" /> </a>
-  - Engineer Diploma in Micro Engineering (EPFL, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
+  - Engineer Diploma in Engineering (EPFL, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
         <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="40" height="15" /> </a>
 - 🌐 **Languages**:
   - French (Native)
@@ -21,11 +21,17 @@
 
 ### 📚 Certifications:
 - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)  
-- [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf)  
+- [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>  
 - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
 - [Certified Ethical Hacker](./pictures/Edureka/CertificateEthicalHacker.pdf)  
-- [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf)  
-- [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf)  
+- [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf) <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    </a>
+- [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf) <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
 - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  
 
 
