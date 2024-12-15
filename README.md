@@ -5,24 +5,26 @@
 👨‍💻 About Me: 
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
-- 🌍 Location: Lausanne, Switzerland
 - 🎓 **Education**:  
-  - <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="30"/> *MSc in Computer Science (University of Birmingham, UK)*  
-  - <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="30"/> *Engineer Diploma in Micro Engineering (EPFL, CH)*  
-- 🌐 Languages: French (Native), English (Fluent), German (Good)
-
+  - MSc in Computer Science (University of Birmingham, UK) <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="30"/>  
+  - Engineer Diploma in Micro Engineering (EPFL, CH) <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="30"/> 
+- 🌐 Languages: 
+  - French (Native)
+  - English (Fluent)
+  - German (Good)
+- 🌍 Location: Lausanne, Switzerland
 
 ![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
 
 
 ### 📚 Certifications:
 - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)  
-- [Python Professional (Oct 2024)](./pictures/Certificate_Python_Professional.pdf)  
-- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
-- [Certified Ethical Hacker](./pictures/CertificateEthicalHacker.pdf)  
-- [Docker Associate (Jan 2024)](./pictures/docker_certificate.png)  
-- [Linux Administration Professional (2017 & 2023)](./pictures/linux_certificate.png)  
-- [AWS Solution Architect (Apr 2023)](./pictures/aws_certificate.png)  
+- [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf)  
+- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
+- [Certified Ethical Hacker](./pictures/Edureka/CertificateEthicalHacker.pdf)  
+- [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf)  
+- [Linux Administration Professional (2017 & 2023)](./pictures/Certificate_linuxadmin.pdf)  
+- [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  
 
 
 
