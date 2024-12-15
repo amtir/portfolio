@@ -32,17 +32,11 @@
 - [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="40" height="40" /></a>  
 - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="40" height="40" /> </a>
-
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/kali-dragon-icon.svg" alt="kali" width="40" height="40" /> </a>
-
-<a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="40" height="40" /> </a>
-
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/burpsuite.svg" alt="burpsuite" width="40" height="40" /> </a>
-
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/wireshark.svg" alt="wireshark" width="40" height="40" /> </a>
-
-
-- [Certified Ethical Hacker](./pictures/Edureka/CertificateEthicalHacker.pdf)  
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/kali-dragon-icon.svg" alt="kali" width="40" height="40" /></a>
+<a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="40" height="40" /></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/icons/blob/master/svg/Nmap.svg" alt="nmap" width="40" height="40" /></a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/burpsuite.svg" alt="burpsuite" width="40" height="40" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/wireshark.svg" alt="wireshark" width="40" height="40" /></a>  
 - [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf) <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a>
