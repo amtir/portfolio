@@ -7,10 +7,10 @@
 
 - 🌍 Location: Lausanne, Switzerland
 - 🎓 **Education**:  
-  - [![MSc in Computer Science](./pictures/university_of_birmingham_logo.jpg)]  
-    *MSc in Computer Science (University of Birmingham, UK)*  
-  - [![Engineer Diploma in Micro Engineering](./pictures/epfl_logo.jpg)]  
-    *Engineer Diploma in Micro Engineering (EPFL, CH)*
+  - *MSc in Computer Science (University of Birmingham, UK)*  
+    [![MSc in Computer Science](./pictures/university_of_birmingham_logo.jpg)](./pictures/msc_computer_science.png)  
+  - *Engineer Diploma in Micro Engineering (EPFL, CH)*  
+    [![Engineer Diploma in Micro Engineering](./pictures/epfl_logo.jpg)](./pictures/engineer_diploma_epfl.png)
 - 🌐 Languages: French (Native), English (Fluent), German (Good)
 
 
