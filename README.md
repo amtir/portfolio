@@ -6,15 +6,15 @@
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
 - 🎓 **Education**:  
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
-        <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="40" height="41" style="margin-right: 10px;" />
+        <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="40" height="40" style="margin-right: 15px;" />
     </a>
     <span>MSc in Computer Science (University of Birmingham, UK)</span>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
-        <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="40" height="41" style="margin-right: 10px;" />
+        <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="40" height="40" style="margin-right: 15px;" />
     </a>
     <span>Engineer Diploma in Micro Engineering (EPFL, CH)</span>
   </div>
