@@ -6,7 +6,11 @@
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
 - 🌍 Location: Lausanne, Switzerland
-- 🎓 Education:  MSc in Computer Science (University of Birmingham, UK) | Engineer Diploma in Micro Engineering (EPFL, CH)
+- 🎓 **Education**:  
+  - [![MSc in Computer Science](./pictures/university_of_birmingham_logo.jpg)]  
+    *MSc in Computer Science (University of Birmingham, UK)*  
+  - [![Engineer Diploma in Micro Engineering](./pictures/epfl_logo.jpg)]  
+    *Engineer Diploma in Micro Engineering (EPFL, CH)*
 - 🌐 Languages: French (Native), English (Fluent), German (Good)
 
 
