@@ -21,28 +21,38 @@
 
 ### 📚 Certifications:
 - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer">
- <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /> </a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="40" height="40" /> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40" /> </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="40" height="40" /> </a>
+ <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="40" height="40" /> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40" /> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="40" height="40" /> </a>
 
 
 - [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>  
-- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="40" height="40" /></a>  
+- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="40" height="40" /> </a>
+
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/kali-dragon-icon.svg" alt="kali" width="40" height="40" /> </a>
+
+<a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="40" height="40" /> </a>
+
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/burpsuite.svg" alt="burpsuite" width="40" height="40" /> </a>
+
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/wireshark.svg" alt="wireshark" width="40" height="40" /> </a>
+
+
 - [Certified Ethical Hacker](./pictures/Edureka/CertificateEthicalHacker.pdf)  
 - [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf) <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
     </a>
 - [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf) <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+        <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/redhat-icon.svg" alt="redhat" width="40" height="40" /></a>
+        <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/debian.svg" alt="debian" width="40" height="40" /></a>
+
 - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="40" height="40" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="40" height="40" /></a>
 
 
 
