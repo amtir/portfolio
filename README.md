@@ -21,11 +21,13 @@
 
 ### 📚 Certifications:
 - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer">
- <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="python" width="40" height="40" /> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="python" width="40" height="40" /> </a>
+ <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /> </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="40" height="40" /> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="40" height="40" /> </a>
 
-   
 
 - [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
