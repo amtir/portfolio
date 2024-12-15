@@ -7,9 +7,9 @@
 
 - 🎓 **Education**:  
   - MSc in Computer Science (University of Birmingham, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
-        <img src="./pictures/UBCS.svg" alt="bootstrap" width="40" height="11" /> </a>
+        <img src="./pictures/UBCS.svg" alt="bootstrap" width="80" height="21" /> </a>
   - Engineer Diploma in Micro Engineering (EPFL, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
-        <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="30" height="11" /> </a>
+        <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="40" height="15" /> </a>
 - 🌐 **Languages**:
   - French (Native)
   - English (Fluent)
