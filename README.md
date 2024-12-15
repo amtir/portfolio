@@ -7,10 +7,8 @@
 
 - 🌍 Location: Lausanne, Switzerland
 - 🎓 **Education**:  
-  - *MSc in Computer Science (University of Birmingham, UK)*  
-    [![MSc in Computer Science](./pictures/university_of_birmingham_logo.jpg)](./pictures/msc_computer_science.png)  
-  - *Engineer Diploma in Micro Engineering (EPFL, CH)*  
-    [![Engineer Diploma in Micro Engineering](./pictures/epfl_logo.jpg)](./pictures/engineer_diploma_epfl.png)
+  - <img src="./pictures/university_of_birmingham_logo.jpg" alt="University of Birmingham Logo" width="30"/> *MSc in Computer Science (University of Birmingham, UK)*  
+  - <img src="./pictures/epfl_logo.jpg" alt="EPFL Logo" width="30"/> *Engineer Diploma in Micro Engineering (EPFL, CH)*  
 - 🌐 Languages: French (Native), English (Fluent), German (Good)
 
 
@@ -18,7 +16,7 @@
 
 
 ### 📚 Certifications:
-- [Data Science and Machine Learning Training (2024 - 2025)](./pictures/data_science_certificate.png)  
+- [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)  
 - [Python Professional (Oct 2024)](./pictures/Certificate_Python_Professional.pdf)  
 - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Certificate_Cyber-Security_Ethical-Hacking.pdf)  
 - [Certified Ethical Hacker](./pictures/CertificateEthicalHacker.pdf)  
