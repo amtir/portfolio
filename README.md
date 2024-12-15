@@ -9,7 +9,7 @@
   - MSc in Computer Science (University of Birmingham, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
         <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="20" height="21" /> </a>
   - Engineer Diploma in Micro Engineering (EPFL, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
-        <img src="./pictures/epfl_logo.svg" alt="bootstrap" width="20" height="21" /> </a>
+        <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="20" height="21" /> </a>
 - 🌐 **Languages**:
   - French (Native)
   - English (Fluent)
