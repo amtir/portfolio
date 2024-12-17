@@ -15,7 +15,7 @@
 - 🌍 **Location**: Lausanne, Switzerland
 
 
-- Certifications:
+- 📚 **Certifications**:
     - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /></a>
