@@ -5,35 +5,35 @@
 
 - 🎓 **Education**:  
   - MSc in Computer Science (2014, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
-        <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="30" height="31" /> </a>
+        <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="20" height="20" /> </a>
   - Engineer Diploma in Engineering (2004, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
         <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="40" height="15" /> </a>
 
 - 📚 **Certifications**:
-    - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /></a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="40" height="40" /></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40" /></a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="40" height="40" /></a>
+    - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="20" height="20" /></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /></a>
+    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="20" height="20" /></a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/m/matplotlib-1.svg" alt="matplotlib" width="20" height="20" /></a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="20" height="20" /></a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="20" height="20" /></a>
 
     - [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="40" height="40" /></a>  
-    - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="40" height="40" /></a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/k/kali-1.svg" alt="kali" width="40" height="40" /></a>
-    <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="40" height="40" /></a>
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/icons/blob/master/svg/Nmap.svg" alt="nmap" width="40" height="40" /></a>
-    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/burp.svg" alt="burpsuite" width="40" height="40" /></a>
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/wireshark.svg" alt="wireshark" width="40" height="40" /></a>  
-    - [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf) <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/docker-compose.svg" alt="docker-compose" width="40" height="40" /></a>
+            <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="20" height="20" /></a>  
+    - [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="20" height="20" /></a>
+    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/k/kali-1.svg" alt="kali" width="20" height="20" /></a>
+    <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="20" height="20" /></a>
+    <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/icons/blob/master/svg/Nmap.svg" alt="nmap" width="20" height="20" /></a>
+    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/burp.svg" alt="burpsuite" width="20" height="20" /></a>
+    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/wireshark.svg" alt="wireshark" width="20" height="20" /></a>  
+    - [Docker Associate (Jan 2024)](./pictures/Edureka/Certificate_docker.pdf) <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/cncf/landscape/blob/master/hosted_logos/docker-compose.svg" alt="docker-compose" width="20" height="20" /></a>
     - [Linux Administration Professional (2017 & 2023)](./pictures/Edureka/Certificate_linuxadmin.pdf) <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-            <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/redhat-icon.svg" alt="redhat" width="40" height="40" /></a>
-            <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/debian.svg" alt="debian" width="40" height="40" /></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20" /></a>
+            <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/redhat-icon.svg" alt="redhat" width="20" height="20" /></a>
+            <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/debian.svg" alt="debian" width="20" height="20" /></a>
 
     - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="40" height="40" /></a>
+            <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="20" height="20" /></a>
 
 
 - 🌐 **Languages**:
@@ -42,7 +42,7 @@
   - German (Good)
 - 🌍 **Location**: Lausanne, Switzerland
 
-🛠 <h4>Languages and Tools: </h4>
+<h4>🛠  Languages and Tools: </h4>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
