@@ -3,13 +3,13 @@
 ### About Me: [![Linkedin Badge](https://img.shields.io/badge/-amtir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akram-m-tir-88261b3/)](https://www.linkedin.com/in/akram-m-tir-88261b3/)
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
-- 🎓 **Education**:  
+🎓 **Education**:  
   - MSc in Computer Science (2014, UK) <a href="https://www.birmingham.ac.uk/" target="_blank" rel="noreferrer">
         <img src="./pictures/university_of_birmingham_logo.jpg" alt="bootstrap" width="20" height="20" /> </a>
   - Engineer Diploma in Engineering (2004, CH) <a href="https://www.epfl.ch/en/" target="_blank" rel="noreferrer">
         <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="40" height="15" /> </a>
 
-- 📚 **Certifications**:
+📚 **Certifications**:
     - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="20" height="20" /></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="20" height="20" /></a>
@@ -123,9 +123,8 @@
     </a>
 
 
-- 🌐 **Languages**:
-  - French (Native), English (Fluent), German (Good)
-- 🌍 **Location**: Lausanne, Switzerland
+🌐 **Languages**:French (Native), English (Fluent), German (Good)
+🌍 **Location**: Lausanne, Switzerland
 
 
 <details open="">
