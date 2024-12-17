@@ -1,8 +1,6 @@
-### Hi Everyone 👋
+### Hi Everyone 👋  
 
-[![Linkedin Badge](https://img.shields.io/badge/-amtir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akram-m-tir-88261b3/)](https://www.linkedin.com/in/akram-m-tir-88261b3/)
-
-👨‍💻 About Me: 
+### About Me: [![Linkedin Badge](https://img.shields.io/badge/-amtir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akram-m-tir-88261b3/)](https://www.linkedin.com/in/akram-m-tir-88261b3/)
 > I’m a Software Engineer and Solution Architect with a passion for creating innovative solutions across web, desktop, and embedded systems. My expertise bridges development, data science, and cloud infrastructure, allowing me to tackle challenges in diverse technical domains.
 
 - 🎓 **Education**:  
@@ -16,10 +14,8 @@
   - German (Good)
 - 🌍 **Location**: Lausanne, Switzerland
 
-![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
 
-
-### 📚 Certifications:
+### Certifications:
 - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" /></a>
@@ -29,7 +25,7 @@
 
 - [Python Professional (Oct 2024)](./pictures/Edureka/Certificate_Python_Professional.pdf) <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" alt="python" width="40" height="40" /></a>  
-- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="40" height="40" /> </a>
+- [Cyber Security & Ethical Hacking (Oct 2024)](./pictures/Edureka/Certificate_Cyber-Security_Ethical-Hacking.pdf)  <a href="https://owasp.org/www-project-top-ten/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/owasp.svg" alt="owasp" width="40" height="40" /></a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://github.com/detain/svg-logos/blob/master/svg/k/kali-1.svg" alt="kali" width="40" height="40" /></a>
 <a href="https://parrotsec.org/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/master/icons/parrotsecurity.svg" alt="parrot" width="40" height="40" /></a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/icons/blob/master/svg/Nmap.svg" alt="nmap" width="40" height="40" /></a>
@@ -45,6 +41,8 @@
 - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="40" height="40" /></a>
 
+
+![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
 
 
 <div>
