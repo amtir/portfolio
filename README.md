@@ -35,6 +35,10 @@
   - [AWS Solution Architect (Apr 2023)](./pictures/Edureka/aws_certificate.png)  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="20" height="20" /></a>
 
+🌐 **Languages**:French (Native), English (Fluent), German (Good)
+
+🌍 **Location**: Lausanne, Switzerland
+
 <h4>🛠  Languages and Tools: </h4>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -123,10 +127,6 @@
     </a>
 
 
-🌐 **Languages**:French (Native), English (Fluent), German (Good)
-🌍 **Location**: Lausanne, Switzerland
-
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -141,8 +141,6 @@
 </details>
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
-
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -150,3 +148,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=amtir&column=7"/>
   </a>
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/amtir/count.svg)
