@@ -52,8 +52,7 @@
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20" /></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">        <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="20" height="20" /></a>
 
-<br/>
-- Database: <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+- Databases: <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20" /></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="20" height="20" /></a>
