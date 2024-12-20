@@ -69,6 +69,9 @@
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/vmware-workstation.svg" alt="vmware" width="20" height="20" /></a>
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="20" height="20" /></a>
 
+- Project Management: <a href="https://www.atlassian.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="20" height="20" /></a>
+
+- Cloud Services: <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="python" width="20" height="20" /></a>
 
 
 <br/>
